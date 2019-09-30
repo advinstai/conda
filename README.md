@@ -78,5 +78,5 @@ conda search scipy --channel conda-forge
 
 Instalando pacote de um canal específico
 ```
-conda install python --channel intel
+conda install python --channel intel --override-channels
 ```
