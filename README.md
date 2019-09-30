@@ -1,7 +1,6 @@
 # Conda
-Curso Sobre Conda
 
-# Exemplos de Comandos para cada Funcionalidade do Conda
+# Exemplos de uso das funcionalidade do Conda
 
 Criando ambiente conda:
 
