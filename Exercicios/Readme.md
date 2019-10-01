@@ -10,3 +10,5 @@ Exercícios:
 8. Instale o pacote Pandas pelo pip
 9. Exporte um dos ambientes criados e passe por email para todos os alunos
 10. Escolha um dos ambientes enviados e monte no seu computador
+
+Crie um documento mostrando a sequência de comandos executado e as telas retornadas.
